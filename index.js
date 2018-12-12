@@ -1,5 +1,6 @@
 
-      
+console.log("TESTING...");     
+
     var sunny= 'This building is W19. W19 is Endicott Building. This building was built in 2018. Weather was sunny and nice.';
             
     var snowing= 'This building is W19. W19 is Endicott Building. This building was built in 2018. Weather was snowing and cold.';
